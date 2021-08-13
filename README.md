@@ -42,7 +42,7 @@ _It has the following advantages:_
 - The system is implemented with Python, and utilizes Google Cloud Firestore.
 - There should be a JSON file contatining the key to access to the Firebase.
 - Libraries including firebase-admin 5.0.1.
-- MF RFID readers and MF 13.56Mhz RFID tags are used for the project.
+- MF RFID readers and MF 13.56Mz RFID tags are used for the project.
 
 #### 2. Process of the project
 - The system works through this process when UID is entered.
